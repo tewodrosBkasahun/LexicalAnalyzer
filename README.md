@@ -1,5 +1,3 @@
-# LexicalParser
-
 # Project Title
 Lexical Analyzer 
 
